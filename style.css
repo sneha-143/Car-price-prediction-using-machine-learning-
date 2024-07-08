@@ -1,0 +1,37 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+  display: content;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+  height: 100vh;
+  margin-bottom: 4%;/* Optional: Set height to viewport height for full-screen centering */
+}
+.back{
+    background-color: #273746;
+}
+
+.mt-50{
+	margin-top: 50px;
+	background-color:#3399CC;
+}
+#canvas{
+    border: 2px solid black;
+}
+.card-body{
+   align-items:center;
+   align-content: center;
+   justify-content:center;
+}
+h1 {
+    font-weight: bold;
+}
+.row {
+  align-items:center;
+  justify-content:center;
+}
